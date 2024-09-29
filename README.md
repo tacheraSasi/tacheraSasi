@@ -14,9 +14,9 @@
 
 ### 👀 About Me
 - 🔭 I’m currently working on [ekiliSense](https://github.com/tacheraSasi/ekiliSense) and [ekiliRelay](https://github.com/tacheraSasi/ekiliRelay).
-- 🌱 I’m currently learning **Cyber Security** and exploring **GoLang**.
+- 🌱 I’m currently learning **Laravel**, **electronjs**, **Tauri** and exploring **GoLang**.
 - 👯 I’m looking to collaborate on **open-source projects** and **cutting-edge tech solutions**.
-- ⚡ Fun fact: I'm also an **actor** in an upcoming sci-fi movie. 
+- ⚡ Fun fact: I'm a **point gaurd** in basket. 
 
 ---
 
