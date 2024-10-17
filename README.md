@@ -8,15 +8,15 @@
   <a href="https://linkedin.com/in/tacheraSasi" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn Badge" />
   </a>
-</p>
+</p> 
 
 ---
 
 ### 👀 About Me
 - 🔭 I’m currently working on [ekiliSense](https://github.com/tacheraSasi/ekiliSense) and [ekiliRelay](https://github.com/tacheraSasi/ekiliRelay).
-- 🌱 I’m currently learning **Laravel**, **electronjs**, **Tauri** and exploring **GoLang**.
+- 🌱 I’m currently learning **Laravel**, **electronjs**, **Tauri**, and exploring **GoLang**, **Express.js**, **Hono**, **Fiber**, **Gin**, and **C++**.
 - 👯 I’m looking to collaborate on **open-source projects** and **cutting-edge tech solutions**.
-- ⚡ Fun fact: I'm a **point gaurd** in basket. 
+- ⚡ Fun fact: I'm a **point guard** in basketball.
 
 ---
 
@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 ### 🚀 Frameworks & Tools
@@ -41,14 +42,22 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+### 🌐 Backend Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hono-FF5722?style=for-the-badge&logo=hono&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Fiber-00C7B7?style=for-the-badge&logo=gofiber&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gin-007396?style=for-the-badge&logo=gin&logoColor=white" />
+</p>
+
 ---
 
 ### 🔧 My Development Environment
 
 - **OS**: Ubuntu 20.04 LTS, GNOME
 - **Editor**: VSCode, Vim
-- **Languages**: Python, JavaScript, TypeScript, PHP, Go, Java
-- **Frameworks**: Django, React.js, Node.js, Next.js, React Native
+- **Languages**: Python, JavaScript, TypeScript, PHP, Go, Java, C++
+- **Frameworks**: Django, React.js, Node.js, Next.js, React Native, Express.js, Hono, Fiber, Gin
 - **Databases**: PostgreSQL, MySQL, SQLite
 - **Tools**: Docker, Git, Prisma, HTMX
 
@@ -80,8 +89,8 @@
 ---
 
 ### 📫 How to reach me
-- **Twitter**: [@tacheraSasi](https://twitter.com/sasiTachera)
-- **website**: [Tachera Sasi](https://tachera.com)
+- **Twitter**: [@tacheraSasi](https://twitter.com/tacheraSasi)
+- **Website**: [Tachera Sasi](https://tachera.com)
 - **Email**: tachera@gmail.com
 
 ---
