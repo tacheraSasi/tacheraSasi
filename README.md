@@ -76,9 +76,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tacheraSasi&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacheraSasi&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
