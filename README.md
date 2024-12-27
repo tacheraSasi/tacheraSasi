@@ -105,7 +105,7 @@
 ### 📫 How to reach me
 - **Twitter**: [@tacheraSasi](https://twitter.com/tacheraSasi)
 - **Website**: [tachera.com](https://tachera.com)
-- **Email**: tachera@gmail.com
+- **Email**: tachera@ekilie.com
 - **LinkedIn**: [LinkedIn](https://linkedin.com/in/tacheraSasi)
 - **GitHub**: [tacheraSasi](https://github.com/tacheraSasi)
 
