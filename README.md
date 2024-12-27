@@ -41,7 +41,7 @@
 ### 🚀 Frameworks & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/-Laravel-092E34B?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/-Laravel-00599C?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
