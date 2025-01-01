@@ -16,12 +16,12 @@
 ---
 
 ### 👀 About Me
-- 🔭 I’m currently working on [ekiliSense](https://github.com/tacheraSasi/ekiliSense) and [ekiliRelay](https://github.com/tacheraSasi/ekiliRelay).
-- 🌱 I’m currently learning **Laravel**, **Electron.js**, **Tauri**, and exploring **GoLang**, **Express.js**, **Hono**, **Fiber**, **Gin**, **C++**.
-- 👯 I’m looking to collaborate on **open-source projects** and **cutting-edge tech solutions**.
-- 🧠 I love solving complex problems and sharing knowledge with others.
-- ⚡ Fun fact: I'm a **point guard** in basketball and have a keen interest in sports analytics.
-- 💬 Ask me about **building full-stack applications**, **modern web frameworks**, or **working with new technologies**!
+- 🔭 Creator of [vintLang](https://vintlang.ekilie.com) and working on [ekiliSense](https://sense.ekilie.com) & [ekiliRelay](https://relay.ekilie.com).
+- 🌱 Learning **Laravel**, **Electron.js**, exploring **Go** (my favorite language), **NestJS**,**NextJS**,**ReactJS**,**Django**, **Express.js**, **Hono**, **Fiber**, **Gin**, and **C++**.
+- 👯 Open to collaborating on **open-source projects** and **cutting-edge tech** solutions.
+- 🧠 Passionate about solving problems, building **powerful frameworks**, and sharing knowledge.
+- ⚡ Fun fact: **Point guard** in basketball with a love for **sports analytics**.
+- 💬 Ask me about **full-stack development**, **modern frameworks**, or **Go programming**!
 
 ---
 
