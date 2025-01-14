@@ -1,22 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tachera Sasi</h1>
-<h3 align="center">A Passionate Full-Stack Developer from Tanzania</h3>
-
-<p align="center">
-  <a href="https://twitter.com/tacheraSasi" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/tacheraSasi?label=Follow%20Me&style=social" alt="Twitter Badge" />
-  </a>
-  <a href="https://linkedin.com/in/tacheraSasi" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://tachera.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-blue?style=social&logo=google-chrome" alt="Website Badge" />
-  </a>
-</p>
+<h1 align="center">Hey there! I'm Tachera Sasi 👋</h1> <h3 align="center">A Tanzanian Tech Enthusiast Who Loves Building Cool Stuff</h3> <p align="center"> <a href="https://twitter.com/tacheraSasi" target="_blank"> <img src="https://img.shields.io/twitter/follow/tacheraSasi?label=Follow%20Me&style=social" alt="Twitter Badge" /> </a> <a href="https://linkedin.com/in/tacheraSasi" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn Badge" /> </a> <a href="https://tachera.com" target="_blank"> <img src="https://img.shields.io/badge/-Website-blue?style=social&logo=google-chrome" alt="Website Badge" /> </a> </p>
 
 ---
 
 ### 👀 About Me
-- 🔭 Creator of [vintLang](https://vintlang.ekilie.com) and working on [ekiliSense](https://sense.ekilie.com) & [ekiliRelay](https://relay.ekilie.com).
+- 🔭 Creator of [vintLang](https://vintlang.ekilie.com) and working on [ekiliSense](https://sense.ekilie.com) & [ekiliRelay](https://relay.ekilie.com).  Go is my weapon of choice (yes, I'm a proud Golang enthusiast!), but I dabble in a bunch of other technologies too.
 - 🌱 Learning **Laravel**, **Electron.js**, exploring **Go** (my favorite language), **NestJS**,**NextJS**,**ReactJS**,**Django**, **Express.js**, **Hono**, **Fiber**, **Gin**, and **C++**.
 - 👯 Open to collaborating on **open-source projects** and **cutting-edge tech** solutions.
 - 🧠 Passionate about solving problems, building **powerful frameworks**, and sharing knowledge.
