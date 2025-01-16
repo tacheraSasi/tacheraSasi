@@ -84,7 +84,7 @@
 ---
 
 ### 🧑‍🤝‍🧑 Contributions to Open Source
-- 💼 **Open Source Contributions**: I actively contribute to [Trendui](https://trendui.com),[Go](https://go.dev),[ekiliSense](https://github.com/tacheraSasi/ekiliSense) and [ekiliRelay](https://github.com/tacheraSasi/ekiliRelay), focusing on making tools that simplify the development process and improve collaboration.
+- 💼 **Open Source Contributions**: I actively contribute to [VintLang](https://vintlang.ekilie.com),[SnakiGame](https://github.com/tacheraSasi/snake-game-react-native),[Trendui](https://trendui.com),[Go](https://go.dev),[ekiliSense](https://github.com/tacheraSasi/ekiliSense) and [ekiliRelay](https://github.com/tacheraSasi/ekiliRelay), focusing on making tools that simplify the development process and improve collaboration.
 - 🌍 **Collaborations**: If you have an open-source project or a tech problem you're tackling, feel free to reach out — I’d love to help!
 
 ---
