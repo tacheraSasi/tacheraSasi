@@ -52,9 +52,7 @@
 
 ### 🔧 My Development Environment
 - **OS**: Ubuntu 20.04 LTS, GNOME
-- **Editor**: VSCode, Vim, JetBrains (for specialized tasks)
-- **Languages**: Python, JavaScript, TypeScript, PHP, Go, Java, C++
-- **Frameworks**: Django, React.js, Node.js, Next.js, React Native, Express.js, Hono, Fiber, Gin
+- **Editor**: Nvim,Zed
 - **Databases**: PostgreSQL, MySQL, SQLite
 - **Tools**: Docker, Git, Prisma, HTMX, Figma (for UI/UX), Jest (for testing), Webpack
 
