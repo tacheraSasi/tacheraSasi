@@ -12,6 +12,12 @@
 
 ---
 
+### 🧑‍🤝‍🧑 Contributions to Open Source
+- 💼 **Open Source Contributions**: I actively contribute to [VintLang](https://vintlang.ekilie.com),[SnakiGame](https://github.com/tacheraSasi/snake-game-react-native),[Trendui](https://trendui.com),[Go](https://go.dev),[ekiliSense](https://github.com/tacheraSasi/ekiliSense) and [ekiliRelay](https://github.com/tacheraSasi/ekiliRelay), focusing on making tools that simplify the development process and improve collaboration.
+- 🌍 **Collaborations**: If you have an open-source project or a tech problem you're tackling, feel free to reach out — I’d love to help!
+
+---
+
 ### 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -83,11 +89,6 @@
 
 ---
 
-### 🧑‍🤝‍🧑 Contributions to Open Source
-- 💼 **Open Source Contributions**: I actively contribute to [VintLang](https://vintlang.ekilie.com),[SnakiGame](https://github.com/tacheraSasi/snake-game-react-native),[Trendui](https://trendui.com),[Go](https://go.dev),[ekiliSense](https://github.com/tacheraSasi/ekiliSense) and [ekiliRelay](https://github.com/tacheraSasi/ekiliRelay), focusing on making tools that simplify the development process and improve collaboration.
-- 🌍 **Collaborations**: If you have an open-source project or a tech problem you're tackling, feel free to reach out — I’d love to help!
-
----
 
 ### 📫 How to reach me
 - **Twitter**: [@tacheraSasi](https://twitter.com/tacheraSasi)
