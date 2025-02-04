@@ -70,8 +70,8 @@
 ### 🔧 Dev Setup
 - **OS**: Ubuntu 20.04 LTS 🐧
 - **Editor**: Neovim, Zed 💻
-- **Databases**: PostgreSQL, MySQL, SQLite 🛢
-- **Tools**: Docker, Git, Prisma, HTMX, Jest 🔧
+- **Databases**: PostgreSQL, MySQL, SQLite, MiniDB(Built it myself) 🛢
+- **Tools**: Docker, Git, Prisma, HTMX, ELLIE 🔧
 
 ---
 
