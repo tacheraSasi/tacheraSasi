@@ -1,4 +1,4 @@
-<h1 align="center">fmt.Println("Hey, I'm Tachera! 👋")</h1>
+<h1 align="center">fmt.Println("Hey, I'm Tach! 😎")</h1>
 <h3 align="center">Code, Create, Conquer 🚀</h3>
 
 <p align="center">
