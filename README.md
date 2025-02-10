@@ -98,7 +98,7 @@
 
 ### 🎯 Let’s Connect
 - **Twitter**: [@tacheraSasi](https://twitter.com/tacheraSasi)
-- **Website**: [tachera.com](https://tachera.com)
+- **Website**: [tachera.vercel.app](https://tachera.vercel.app)
 - **Email**: tachera@ekilie.com
 - **LinkedIn**: [tacheraSasi](https://linkedin.com/in/tacheraSasi)
 - **GitHub**: [tacheraSasi](https://github.com/tacheraSasi)
