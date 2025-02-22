@@ -21,7 +21,7 @@
 
 ### 🔥 What I'm Up To  
 - Building **[vintLang](https://vintlang.ekilie.com)**, **[ekiliSense](https://sense.ekilie.com)**, and **[ekiliRelay](https://relay.ekilie.com)**.
-- Writing **Go**, **TypeScript**, **Next.js**, **React**, **Django*, **Expo**, and a dozen other tools that keep me up at night.
+- Writing **Go**, **TypeScript**, **Next.js**, **React**, **Django**, **Expo**, and a dozen other tools that keep me up at night.
 - Currently diving deeper into **Laravel**, **Electron.js**, and **C++** just for fun.
 - Passionate about **clean code**, **building powerful frameworks**, and **open-source**—if it's cool, I'm in!
 
