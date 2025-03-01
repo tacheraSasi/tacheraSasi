@@ -35,13 +35,6 @@
 
 ---
 
-### 🏀 Side Quests (Because Life Ain't Just Code)
-- **Basketball Point Guard 🎯** — I break ankles on the court just like I break bugs in my code.
-- **Sports Analytics Enthusiast 📊** — If it's got numbers, I'm running stats on it.
-- **Tech Content Creator 🎥** — Dropping knowledge bombs on **YouTube** & **Twitter**.
-
----
-
 ### 💻 Tech & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
