@@ -17,7 +17,7 @@
   </a>
 </p>
 
----
+<!-- ---
 
 ### 🔥 What I'm Up To  
 - Building **[vintLang](https://vintlang.ekilie.com)**, **[ekiliSense](https://sense.ekilie.com)**, and **[ekiliRelay](https://relay.ekilie.com)**.
@@ -97,6 +97,4 @@
 - **LinkedIn**: [tacheraSasi](https://linkedin.com/in/tacheraSasi)
 - **GitHub**: [tacheraSasi](https://github.com/tacheraSasi)
 
----
-
-<p align="center">🚀 Let’s build cool things & break limits! 🚀</p>
+--- -->
