@@ -2,13 +2,10 @@
 <h3 align="center">Code, Create, Conquer ☣️🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tacheraSasi&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tacheraSasi&label=Profile%20Views&color=green&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/tacheraSasi" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/tacheraSasi?label=Follow%20Me&style=social" alt="Twitter Badge" />
-  </a>
   <a href="https://linkedin.com/in/tacheraSasi" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn Badge" />
   </a>
