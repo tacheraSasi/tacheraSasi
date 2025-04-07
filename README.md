@@ -3,7 +3,7 @@
   
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tacheraSasi&label=Profile%20Views&color=green&style=flat" alt="Profile Views" /> 
-</p>
+</p> 
 
 <p align="center"> 
   <a href="https://linkedin.com/in/tacheraSasi" target="_blank">
