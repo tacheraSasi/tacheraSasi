@@ -1,19 +1,18 @@
-<h1 align="center">fmt.Println("Hey, I'm Tach! 😎")</h1> 
-<h3 align="center">Code, Create, Conquer ☣️🚀</h3>
-  
-<p align="center">  
- 
-  <img src="https://komarev.com/ghpvc/?username=tacheraSasi&label=Profile%20Views&color=green&style=flat" alt="Profile Views" /> 
-</p> 
- 
+<h1 align="center"><code>fmt.Println("Hey, I'm Tach! 😎")</code></h1>
+<h3 align="center"><em>Code. Create. Conquer. ☣️🚀</em></h3>
+
 <p align="center">
-  <a href="https://linkedin.com/in/tacheraSasi" target="_blank"> 
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin" alt="LinkedIn Badge" />
+  <img src="https://komarev.com/ghpvc/?username=tacheraSasi&label=Profile%20Views&color=green&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/tacheraSasi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=social" alt="LinkedIn Badge" />
   </a>
   <a href="https://tachera.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-blue?style=social&logo=google-chrome" alt="Website Badge" />
+    <img src="https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome&style=social" alt="Website Badge" />
   </a>
-</p>
+</p>>
 
 <!-- ---
 
