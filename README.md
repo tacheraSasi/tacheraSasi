@@ -2,7 +2,7 @@
   fmt.Println("Hey, I'm Tach! 😎")
 </h1>
 <h3 align="center">
-  <em>Code ⚡ Create 🚀 Conquer ☣️</em>
+  <em>Code  Create  Conquer </em>
   <em>The weak shall suffer 😂</em>
 </h3>
 
