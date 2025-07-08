@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/tacheraSasi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
+    <img  src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
   </a>
   <a href="https://tachera.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-Explore-green?logo=google-chrome&style=for-the-badge" alt="Website Badge" />
