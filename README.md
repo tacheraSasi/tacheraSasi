@@ -1,9 +1,9 @@
 <h1 align="center">
-  fmt.Println("Hey, I'm Tach! 😎")
+  fmt.Println("Hey, I'm Tach!")
 </h1>
 <h3 align="center">
-  <em>Code  Create  Conquer </em>
-  <em>The weak shall suffer 😂</em>
+  <em>A leap of faith</em>
+
 </h3>
 
 <p align="center">
