@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/Website-Explore-green?logo=google-chrome&style=for-the-badge" alt="Website Badge" />
   </a>
 </p>
+<p>Programming at least 2hour everyday on personal projects for <a>a year</a> </p>
 <p>My Daily programming routine <a href="https://github.com/tachRoutine" target="_blank">
     TACHROUTINE
   </a></p>
