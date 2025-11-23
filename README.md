@@ -20,9 +20,9 @@
   </a>
 </p>
 <p>Programming at least 2hour everyday on personal projects for <b>a year</b> </p>
-<p>My Daily programming routine <a href="https://github.com/tachRoutine" target="_blank">
+<!-- <p>My Daily programming routine <a href="https://github.com/tachRoutine" target="_blank">
     TACHROUTINE
-  </a></p>
+  </a></p> -->
 
 <!-- ---
 
