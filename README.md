@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Website-Explore-green?logo=google-chrome&style=for-the-badge" alt="Website Badge" />
   </a>
 </p>
-<p>Programming at least 2hour everyday on personal projects for <b>a year</b> </p>
+<p><a></a>Golang Fanatic 🦍</b> — I love building sleek, efficient stuff</p>
 <!-- <p>My Daily programming routine <a href="https://github.com/tachRoutine" target="_blank">
     TACHROUTINE
   </a></p> -->
