@@ -19,11 +19,10 @@
   <img src="https://komarev.com/ghpvc/?username=tacheraSasi&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 
-Golang Fanatic 🦍 → Go is home base, but I roam Rust, Zig, TypeScript, PHP & even C when I need to feel alive
+Golang Fanatic 🦍 → I use Go a lot, but I also work with Rust, Zig, TypeScript, PHP and C when needed
 
-I build APIs, microservices, CLIs, and distributed stuff that just works.
+I build APIs, microservices, CLIs, and distributed systems that are reliable and easy to work with.
 
-Occasionally drop battle stories, deep dives & hot takes here → <a href="https://medium.com/@tacherasasi">Medium</a>
+I write about things I’m learning, building, or figuring out here → <a href="https://medium.com/@tacherasasi">Medium</a>
 
-`Currently obsessed with`: memory that doesn't leak (Go/Rust/Zig style), metaprogramming that feels magical, observability that actually helps, and codebases that survive the next decade.
-
+`Currently obsessed with`: memory that behaves (Go/Rust/Zig style), metaprogramming that’s actually useful, observability that helps debug real issues, and codebases that don’t fall apart over time.
