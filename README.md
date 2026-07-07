@@ -41,4 +41,4 @@ I write about things I'm learning, building, or debugging at an embarrassing hou
 
 `Currently obsessed with:` memory that behaves (Go/Rust/Zig style), observability that actually helps debug real issues, metaprogramming that's useful, and codebases that age well
 
-*Based in Tanzania 🇹🇿 · Open to remote roles worldwide · UTC+3*
+*Based in Tanzania 🇹🇿 · UTC+3*
