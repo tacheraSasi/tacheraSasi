@@ -15,11 +15,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Go-primary-00ADD8?logo=go&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Rust-when_needed-000000?logo=rust&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Zig-curious-F7A41D?logo=zig&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/C-close_to_metal-A8B9CC?logo=c&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Rust-when_needed-000000?logo=rust&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/TypeScript-yes_also-3178C6?logo=typescript&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/PHP-don't_@_me-777BB4?logo=php&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/C-close_to_metal-A8B9CC?logo=c&logoColor=white&style=flat-square" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-backend-E0234E?logo=nestjs&logoColor=white&style=flat-square" />
