@@ -33,7 +33,7 @@
   <img src="https://komarev.com/ghpvc/?username=tacheraSasi&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 
-**Go fanatic 🦍** —> also ships in Rust, Zig, TypeScript, PHP, and C when the job calls for it
+**Go fanatic 🦍** —> also ships in Zig, TypeScript, PHP, and C when the job calls for it
 
 I build APIs, microservices, CLIs, and distributed systems that are reliable, scalable, and boring in the best way possible.
 
