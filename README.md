@@ -1,9 +1,11 @@
 <h1 align="center">
   fmt.Println("Hey, I'm Tach!")
 </h1>
+
 <h3 align="center">
   <em>Building systems that don't wake you up at 3am</em>
 </h3>
+
 <p align="center">
   <a href="https://linkedin.com/in/tacheraSasi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
@@ -21,24 +23,33 @@
   <img src="https://img.shields.io/badge/TypeScript-yes_also-3178C6?logo=typescript&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/PHP-don't_@_me-777BB4?logo=php&logoColor=white&style=flat-square" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-backend-E0234E?logo=nestjs&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Laravel-artisan-FF2D20?logo=laravel&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Docker-containerized-2496ED?logo=docker&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Kubernetes-orchestrated-326CE5?logo=kubernetes&logoColor=white&style=flat-square" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Remote-Open_Worldwide-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Tanzania-UTC%2B3-orange?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=tacheraSasi&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 
-**Go fanatic 🦍** -> also ships in Zig, TypeScript, PHP, and C when the job calls for it
+**Systems & Infrastructure Engineer** building software that works beyond the happy path.
 
-I build APIs, microservices, CLIs, and distributed systems that are reliable, scalable, and boring in the best way possible.
+I enjoy understanding how computers work, designing systems, and building the tools and infrastructure that make software possible.
 
-I write about things I'm learning, building, or debugging at an embarrassing hour → <a href="https://medium.com/@tacherasasi">Medium</a>
+- **Primary:** Go
+- **Also:** Zig, C, TypeScript, PHP
+- **Building:** Developer tools, infrastructure, CLIs, APIs, and distributed systems.
+- **Interested in:** Operating systems, memory management, networking, concurrency, observability, and performance engineering.
 
-`Currently obsessed with:` memory that behaves (Go/Rust/Zig style), observability that actually helps debug real issues, metaprogramming that's useful, and codebases that age well
+I build things, break things, investigate why they broke, and occasionally write about what I learn along the way.
+
+→ <a href="https://medium.com/@tacherasasi" target="blank">Writing on Medium</a>
+
+`Currently exploring:` Low-level systems programming, memory management, and the engineering behind reliable infrastructure.
 
 *Based in Tanzania 🇹🇿 · UTC+3*
