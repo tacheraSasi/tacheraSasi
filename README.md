@@ -37,7 +37,7 @@
   <img src="https://komarev.com/ghpvc/?username=tacheraSasi&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 
-**Systems & Infrastructure Engineer** building software that works beyond the happy path.
+**Backend Systems & Infrastructure Engineer** building software that works beyond the happy path.
 
 I enjoy understanding how computers work, designing systems, and building the tools and infrastructure that make software possible.
 
