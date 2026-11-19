@@ -2,10 +2,6 @@
   fmt.Println("Hey, I'm Tach!")
 </h1>
 
-<h3>
-  <em>Curious about computers. Serious about building.</em>
-</h3>
-
 **Backend Systems & Infrastructure Engineer** building software that works beyond the happy path.
 
 I care about understanding the machinery, not just operating it. I build things, break things, investigate why they broke, and write about what I learn along the way.
